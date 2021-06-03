@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francis Rockley Esq; presenteth, that the revenew of the excise may be improved two hundred thousand pounds per annum (if the proceede of it be more than so much now) by the imposition of a proportionable excise in substance upon every quarter of malt, ...</title>
+            <author>Rockley, Francis.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29036</idno><idno type="EEBO-CITATION">99884089</idno>
+  <idno type="VID">201568</idno>
+  <idno type="EEBO-PROQUEST">2264208926</idno>
+  
+            <idno type="STC">Wing R1765A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[2]</idno>
+            <idno type="STC">ESTC R213329</idno>
+            <idno type="PROQUEST">ocm99884089</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884089e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201568)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Francis Rockley Esq; presenteth, that the revenew of the excise may be improved two hundred thousand pounds per annum (if the proceede of it be more than so much now) by the imposition of a proportionable excise in substance upon every quarter of malt, ...</title>
+                  <author>Rockley, Francis.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:201568:1"/>
+            <head>Francis Rockley Esq,</head>
+            <p>Presenteth,<lb/>
+               <seg rend="decorInit">T</seg>HAT the Revenew of the Excise may be improved two hundred thousand pounds <hi>per annum</hi> (if the Proceede of it be more than so much now) by the imposition of a proportionable Excise in substance upon every Quarter of Malt, to the Excise which is now imposed upon so much Ale and Beer as is the Proceede of a Quarter, in place of that Excise which is imposed upon Ale and Beer brewed <hi>to sell,</hi> and which will be,
+<list>
+                  <item>1 A far more equal Tax.</item>
+                  <item>2 To be advanced with more certainty according to the Rule thereof.</item>
+                  <item>3 With much less charge <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> and <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap>
+                  </item>
+                  <item>4 With much less Clamour than what is now impos'd.</item>
+               </list>
+            </p>
+            <p>To the first, <hi>A far more equal Tax;</hi> for being that all and every person must brew with Malt; if all Malt be equally charg'd, all and every one must there<g ref="char:EOLhyphen"/>by (<hi>viz.</hi> the Excise being charg'd upon Malt) be equally charg'd; but as the Excise is now established, all are not equally charg'd <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> for<lb/> Every person who brews to sell, by whom only the Excise of Beer and Ale is now charged upon the Subject, is either,</p>
+            <p n="1">1 the Brewer who brews to sell by great measures, and wholly serves other Families by the same; which sort of Brewers are only in some few great Ci<g ref="char:EOLhyphen"/>ties and Towns, not above twenty throughout the land, by whom all persons who buy their drink, in such places become equally charged, being all persons in those places are provided of their drink from such publick Brewers, who stand obliged to levy the same, and know to whom &amp; what proportion they sell▪ <hi>&amp;c.</hi> Or,</p>
+            <p n="2">2 The Brewers who brews to sell by retail, by whom only the Excise of Beer and Ale is charg'd upon the Subject in the rest of the land: this sort of Brewers charges almost only such as drink the same in those houses where the same is brewed and sold, or those who necessarily buy the same for their re<g ref="char:EOLhyphen"/>lief, and therefore supplies but a small proportion of the rest of the land, being that in almost all Market Towns, Villages, Hamlets, and private houses in the Countrey throughout the land, all the Inhabitants brew for themselves, at least by much the greatest proportion of what they use (though these may bet<g ref="char:EOLhyphen"/>ter afford to pay the imposition of Excise laid upon these their drinks than those who now only pay the same) <hi>viz.</hi> than Gentlemen and Laborers in those great Towns where they are provided of these drinks from publick Brew houses, and then Travellers and the Pesantry in the Countrey who buy the same, being it is to be suppos'd the Brewer must have a profit out of his industry, a charge which is saved by those who brew for themselves, so unequal it is, that these only
+<pb n="2" facs="tcp:201568:2"/>should escape this Impost, who being so great a proportion of the whole land may be the half or more: this Impost of Excise is proportionably short to what, it is equal, it should be.</p>
+            <p n="2">2. Every proportion of malt to be made throughout the land may with much more certainty be known by survey than the severall proportions of Beer and Ale brewed in the land.<note place="margin">I have heard a Brewer of <hi>London</hi> say, that he knew Brewers who gain'd by the Excise ten pounds <hi>per</hi> week.</note>
+            </p>
+            <p>Every Brewer great as well as small may so surreptiously at least dispatch some considerable portion of their brewings (so quicke is the expedition of that worke) and give such supplement to their liquors that its imposible without an Of<g ref="char:EOLhyphen"/>ficers minutely attendance of each brewing (a charge not to be born throughout the land by the profit arising thereout) certainly to know the proportion of each brewing, though an indifferent good accounts may be taken of what those great brewers brew who brew to sell by great measures, yet there is much deceit fami<g ref="char:EOLhyphen"/>arly in them which is unavoidable; whereas first all Malt requires so much time to be made in, as the grain whereof it is made, must lye steeping in a certain vessel, easily measurable by gage for so long a time, <hi>viz.</hi> two dayes, so as a survey of the quantity of the same may be taken without fraud, as demonstra<g ref="char:EOLhyphen"/>tively, as a yard of cloth may be measured to be so by a yard wand, and the same proportion of grain requires above a fornights time longer, that it be made into good Malt, to lye couch'd and spread in great open floars made for that purpose obvious without fraud to every mans eye who shall be imployed and impowered to survey the same, so very ready, if occasion shall require to be measured again for so long a time together.</p>
+            <p>Thirdly, to the third, This impost may be advanced upon the Malster with much lesse charge than immediately upon him that brews, being one Malster fa<g ref="char:EOLhyphen"/>miliarly supplies at least ten brewers who brew to sell in the Countrey, and many more private houses who brew for their own private use only, whereby one man may by survey take an accounts of above ten times so much if this excise shall be immediately charg'd upon the Malster as he can take accounts of, if charg'd upon the Brewer to answer for the same, <hi>&amp;c.</hi>
+            </p>
+            <p>Fourthly, to the fourth, This impost upon Malt may be charg'd upon the whole land indifferentlie to answer with much lesse clamour than the impost upon Beer and Ale as it is now charg'd, is charg'd upon a portion of the land only.</p>
+            <p>There is necessitie of the Malsters having a great stock, whereas he that brews to sell in the Countrie hath frequently no other substance to subsist by than the credit of two or three quarters of Malt from the maker thereof, unto whom the Brewer stands constantly so particularly oblig'd, that such-brewer will in probabilitie cheerfullie discharge his part to his Malster without any distinction in the price of what is paid for the grain, what for the Excise thereof, whereby this imposition of Excise (being charg'd upon the maker of the malt will steal insensibly upon whomsoever buyes it, together with the price thereof as a por<g ref="char:EOLhyphen"/>tion of the same, as amongst the Commons the impost of Custom is now happily mistaken for the intrinsecal value of the commoditie it self, whereas so great are the neceffities of those who brew to fell in the Countrie, that this impost of Excise being immediately charg'd upon them, though with an unquestion<g ref="char:EOLhyphen"/>able honestie and evenness according to the rules thereof (which cannot be per<g ref="char:EOLhyphen"/>formed without a greater charge than the profit arising thereout can amount unto) yet shall it not escape the murmure and clamour of those poore Brewers upon whom it is so immediatelie impos'd when it comes to be discharged, they being ever so unfit to discharge the same, and if this impost of Excise shall by composition be impos'd upon the Brewer in the Countrie after any sort at the will of the Officer imployed to advance and collect the same, as hitherto it hath been impos'd and must be impos'd again, if the establishment of Excise (which hath been) shall continue, or nothing be advanc'd thereout above the charge. Its known by experience amongst us (especially when the Excise hath been in
+<pb n="3" facs="tcp:201568:3"/>Farme, the Farmers usually regarding the profits of the same with much more exaction (as well for the safety as improvement of their fortunes) when they execute it for themselves than when for others) that not only discontent and cla<g ref="char:EOLhyphen"/>mour, but insurrections also have been often made hereby, before what hath been thus contracted for, could be levied, whereas impos'd upon the maker of the malt, it is not only imposed upon a people who are in as great a plenty as any subject of the Nation of any condition whatever are, but the same may at an easie charge be impos'd upon them according to the rules the same shall be di<g ref="char:EOLhyphen"/>rected to be levied by, and shall not need an arbitrarie composition, which is necessary for levy of the excise as now it is established upon Ale and Beere in the Countrie, whereby all clamour will be taken off, they, <hi>viz.</hi> the Malsters being ge<g ref="char:EOLhyphen"/>nerallie so well able to discharge the same, and being impos'd upon them to discharge it without any other burthen than what they bear equally with all their fellow subjects.</p>
+            <p>It is not to be understood, there can be publick Brewers established in this Land for all his Majesties subjects to have their drink from, as in the united Pro<g ref="char:EOLhyphen"/>vinces of the Netherlands, where all live in so much neighbourhood to each o<g ref="char:EOLhyphen"/>ther by scituation of their houses, and commerce of their rivers; whereby it may be most convenient amongst them to have their drink from common brew<g ref="char:EOLhyphen"/>ers, yet the much greatest share of our land being so well appointed of these their drinks by their own brewing with much more conveniency than they can have the same from any establishment of common brewers in this land, where so very many small Villages and private houses are at so great distance from each other (wanting that familiarity of Rivers which are in the united Provinces to bring all commerce to them by) the same cannot be established amongst us for all families of force to have their drink from common Brewers.</p>
+            <p>The Lords and Inheritours of lands are the sole persons liable to the burthen of Wardships, and what reason is there why these should discharge them<g ref="char:EOLhyphen"/>selves of this their burthen upon the shoulders of the commons beneath the same.</p>
+            <p>The person who proposeth this Translation of the excise from Beere and Ale as now it is established unto Malt, hath prepar'd a platforme ready to be prescribed for levy of the same according to his propositions.<note n="*" place="bottom">And there is scarce Lord, Gentleman, or Free-holder throughout the Land of any continued family, who have not only been more liable to suf<g ref="char:EOLhyphen"/>fer, but really have suffered more, by being once in Wardship, then the Excise of this commodity hath charg'd the same Family in two hundred yeares.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
